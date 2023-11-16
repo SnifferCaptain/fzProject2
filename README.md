@@ -55,6 +55,10 @@ Flipped Classroom project 反转课堂项目
    $f(x) = 10\sin(x ^ 2) - 2\sin(x) + 5$
    ![image](https://github.com/99-wood/fzProject/assets/54342274/7d628ac8-199b-440e-bea7-ff3cc0a2c82f)
 
+### 实现方法
+
+多次跑模拟退火
+
 ## Project6 人工神经网络之基础版
 
 ### 题目要求
