@@ -46,16 +46,7 @@ Flipped Classroom project 反转课堂项目
    $f(x) = 10\sin(x ^ 2) - 2\sin(x) + 5$
    ![image](https://github.com/99-wood/fzProject/assets/54342274/7d628ac8-199b-440e-bea7-ff3cc0a2c82f)
 
-## Project6 方程的最小值问题讨论
-
-### 题目要求
-
-1. 讨论如下方程的最小值问题
-
-   $f(x) = 10\sin(x ^ 2) - 2\sin(x) + 5$
-   ![image](https://github.com/99-wood/fzProject/assets/54342274/7d628ac8-199b-440e-bea7-ff3cc0a2c82f)
-
-## Project7 人工神经网络之基础版
+## Project6 人工神经网络之基础版
 
 ### 题目要求
 
@@ -64,7 +55,7 @@ Flipped Classroom project 反转课堂项目
 3. 给出训练后神经网络的性能评价值。
 4. 讨论更改学习率 $\eta$ 的值、循环次数对训练的影响。
    
-## Project8 人工神经网络之进阶版
+## Project7 人工神经网络之进阶版
 
 ### 题目要求
 
