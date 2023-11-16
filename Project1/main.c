@@ -30,7 +30,7 @@ int main(){
 	ans[0] = ans[deque[head]];
 	for(int i = len; i <= m - n; ++i){
 		int l = i - len + 1;
-		while(tail >= head && deque[head] < ans[i]) ++head;
+		while(tail >= head && deque[head] < l) ++head;
 		while(tail >= head && ans[deque[tail]] <= ans[i]) --tail;
 		deque[++tail] = i;
 		ans[l] = ans[deque[head]];
